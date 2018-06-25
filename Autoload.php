@@ -31,6 +31,8 @@ declare(strict_types=1);
 class Autoload
 {
     /**
+     * Autoload classes - searches this files directory and all sub directories
+     *
      * @param string $class
      * @param string $dir
      */
